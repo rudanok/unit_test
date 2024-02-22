@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sem_04">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sem_04" />
+      <root url="jar://$PROJECT_DIR$/sem_04/libs/assertj-core-3.23.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/sem_04/Test" />
+      <root url="file://$PROJECT_DIR$/sem_04/src" />
+    </SOURCES>
+  </library>
+</component>
